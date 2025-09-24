@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "What We Do",
+    "partners": "Partners",
+    "blogs": "Blogs",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "blackcollar",
+    "subtitle": "AI Automation Agency",
+    "description": "Helping SMEs and e-commerce owners increase efficiency and cut costs with AI automation solutions tailored for your business.",
+    "cta": "Book Your Free 30-Minute Consultation",
+    "trustBadge": "Trusted by SMEs across Malaysia & Singapore",
+    "benefits": [
+      "Proven 300% efficiency gains within 90 days",
+      "Up to 40% cost savings through automation"
+    ]
+  },
+  "about": {
+    "title": "Why SMEs Choose Blackcollar",
+    "description": "Blackcollar is a leading AI automation agency helping SMEs in Malaysia and Singapore transform the way they work.\n\nWe create tailored AI solutions that streamline operations, lower costs, and open up new growth opportunities, designed for the unique needs of Southeast Asian businesses.",
+    "mission": "Mission-Driven",
+    "missionDesc": "Our goal is simple: helping SMEs achieve 300% efficiency with proven AI frameworks.",
+    "client": "Client-Centric",
+    "clientDesc": "Solutions tailored for local business culture and cross-border operations.",
+    "innovation": "Innovation-First",
+    "innovationDesc": "AI technology optimized for Malaysia & Singapore markets.",
+    "closing": "Whether it's smarter customer management for spas or automated inventory for e-commerce, we create AI solutions that give SMEs results they can track."
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "",
+    "workflow": "Business Process Automation (Malaysia & Singapore)",
+    "workflowDesc": "Simplify and digitize workflows across operations, logistics, and service businesses in Malaysia and Singapore.",
+    "chatbot": "Multilingual AI Chatbots (EN | 中文)",
+    "chatbotDesc": "Engage customers 24/7 with smart AI assistants that support English and Chinese.",
+    "data": "Cross-Border Data & Compliance Analytics",
+    "dataDesc": "Turn complex data into clear insights. Ensure regulatory compliance for Malaysia–Singapore trade.",
+    "ecommerce": "E-commerce Automation",
+    "ecommerceDesc": "Optimize Shopee, Lazada, and cross-border fulfillment with automated order management, inventory syncing, and customer communications.",
+    "closing": "We help SMEs work smarter, not harder. From manufacturing to retail, from service providers to fintech startups, Blackcollar is your trusted partner in AI-driven growth.\n\n💡 Ready to transform your business?"
+  },
+  "partners": {
+    "title": "Trusted by 200+ SMEs",
+    "description": "",
+    "closing": "From family-run shops in Malaysia to fast-growing Singapore tech firms, businesses across Southeast Asia trust Blackcollar to deliver scalable, cost-effective automation."
+  },
+  "blogs": {
+    "title": "Insights & Resources",
+    "description": "Stay ahead with our latest guides on AI automation for SMEs.",
+    "comingSoon": "",
+    "comingSoonDesc": "",
+    "preview": "",
+    "viewAll": "View All Articles",
+    "readMore": "Read More",
+    "backToBlog": "Back to Blog"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Let's design your custom AI strategy.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "businessType": "Business Type",
+    "message": "Your Message",
+    "submit": "Book Free AI Consultation",
+    "sending": "Sending...",
+    "getInTouch": "Get in Touch",
+    "location": "Location",
+    "serving": "Serving clients worldwide",
+    "whyChoose": "Why Choose blackcollar?",
+    "reasons": [
+      "Proven track record with SMEs",
+      "Custom solutions for your industry",
+      "Ongoing support and optimization",
+      "Measurable ROI within 90 days"
+    ],
+    "businessTypes": [
+      "E-commerce",
+      "Dental Practice",
+      "Beauty Salon",
+      "Restaurant",
+      "Professional Services",
+      "Manufacturing",
+      "Healthcare",
+      "Other"
+    ],
+    "placeholders": {
+      "name": "Enter your full name",
+      "email": "Enter your email address",
+      "businessType": "Select your business type",
+      "message": "Tell us about your business and automation needs..."
+    }
+  },
+  "footer": {
+    "description": "AI Automation Agency helping businesses increase efficiency and reduce costs through intelligent automation solutions.",
+    "quickLinks": "Quick Links",
+    "copyright": "© 2025 blackcollar. All Rights Reserved."
+  },
+  "blogPost": {
+    "readyToTransform": "Ready to Transform Your Business?",
+    "transformDescription": "Get a free consultation to discover how AI automation can help your SME achieve similar results.",
+    "bookConsultation": "Book Free Consultation"
+  }
+}

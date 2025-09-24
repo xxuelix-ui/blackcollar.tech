@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "我们的服务",
+    "partners": "合作伙伴",
+    "blogs": "博客",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "blackcollar",
+    "subtitle": "AI自动化代理",
+    "description": "帮助中小企业和电商业主通过为您的业务量身定制的AI自动化解决方案提高效率并降低成本。",
+    "cta": "联系我们",
+    "trustBadge": "受到马来西亚和新加坡200多家中小企业信赖",
+    "benefits": [
+      "90天内实现300%效率提升",
+      "通过自动化节省高达40%的成本"
+    ]
+  },
+  "about": {
+    "title": "关于blackcollar",
+    "description": "我们是一家专业的AI自动化代理机构，致力于为中小企业提供智能解决方案。我们的使命是帮助像您这样的企业简化运营、降低成本，专注于最重要的事情——发展您的业务。",
+    "mission": "使命驱动",
+    "missionDesc": "专注于为中小企业提供切实的成果",
+    "client": "以客户为中心",
+    "clientDesc": "根据您的具体业务需求量身定制的个性化自动化解决方案",
+    "innovation": "创新优先",
+    "innovationDesc": "改变您运营方式的尖端AI技术",
+    "closing": "从优化预约安排的牙医到自动化库存管理的电商业主，我们了解服务企业面临的独特挑战，并提供能带来真正投资回报的解决方案。"
+  },
+  "services": {
+    "title": "我们的服务",
+    "description": "我们专门提供AI自动化解决方案，改变您的业务运营方式，帮助您更智能地工作，而不是更辛苦地工作。",
+    "workflow": "工作流程自动化",
+    "workflowDesc": "简化重复性任务和流程，节省时间并减少人为错误，同时提高运营效率。",
+    "chatbot": "客户聊天机器人",
+    "chatbotDesc": "部署智能AI助手，24/7处理客户咨询，提高响应时间和客户满意度。",
+    "data": "数据处理与报告",
+    "dataDesc": "通过自动化报告和实时分析仪表板，将原始业务数据转化为可操作的洞察。",
+    "ecommerce": "电商流程优化",
+    "ecommerceDesc": "自动化库存管理、订单处理和客户沟通，扩展您的在线业务。",
+    "closing": "准备革新您的业务运营？让我们讨论我们的AI自动化解决方案如何为您的公司推动增长和效率。"
+  },
+  "partners": {
+    "title": "像您一样的企业信赖我们",
+    "description": "加入越来越多通过我们的AI自动化解决方案改变运营的成功企业。",
+    "closing": "从马来西亚的小型家族企业到新加坡成长中的企业，我们已经帮助各行各业的公司通过智能自动化实现了可衡量的生产力提升和成本降低。"
+  },
+  "blogs": {
+    "title": "洞察与资源",
+    "description": "了解AI自动化和业务优化的最新趋势。",
+    "comingSoon": "即将推出",
+    "comingSoonDesc": "我们正在准备关于AI自动化、业务优化和客户成功案例的宝贵内容。敬请期待专家见解和实用指南。",
+    "preview": "即将发布的文章预览：",
+    "viewAll": "查看所有文章",
+    "readMore": "阅读更多",
+    "backToBlog": "返回博客"
+  },
+  "contact": {
+    "title": "联系我们",
+    "description": "准备通过AI自动化改变您的业务？联系我们的团队讨论您的具体需求并发现定制解决方案。",
+    "name": "全名",
+    "email": "电子邮件地址",
+    "businessType": "业务类型",
+    "message": "消息",
+    "submit": "提交",
+    "sending": "发送中...",
+    "getInTouch": "联系我们",
+    "location": "位置",
+    "serving": "为全球客户提供服务",
+    "whyChoose": "为什么选择blackcollar？",
+    "reasons": [
+      "在中小企业方面有着良好的记录",
+      "为您的行业定制解决方案",
+      "持续支持和优化",
+      "90天内可衡量的投资回报"
+    ],
+    "businessTypes": [
+      "电子商务",
+      "牙科诊所",
+      "美容院",
+      "餐厅",
+      "专业服务",
+      "制造业",
+      "医疗保健",
+      "其他"
+    ],
+    "placeholders": {
+      "name": "输入您的全名",
+      "email": "输入您的电子邮件地址",
+      "businessType": "选择您的业务类型",
+      "message": "告诉我们您的业务和自动化需求..."
+    }
+  },
+  "footer": {
+    "description": "AI自动化代理帮助企业通过智能自动化解决方案提高效率并降低成本。",
+    "quickLinks": "快速链接",
+    "copyright": "© 2025 blackcollar. 版权所有。"
+  },
+  "blogPost": {
+    "readyToTransform": "准备改变您的业务？",
+    "transformDescription": "获得免费咨询，了解AI自动化如何帮助您的中小企业取得类似成果。",
+    "bookConsultation": "预约免费咨询"
+  }
+}
